@@ -1,4 +1,8 @@
 # BeautifulSoup
 BeautifulSoup crawler projects
 
-/Japan is the script  to grasp gps information of Japan with Requests and BeautifulSoup4
+./BeautifulSoupHello/ is a demo to scrapy sina news and store in th sqlite
+
+./Japan/ is the script  to grasp gps information of Japan with Requests and BeautifulSoup4
+
+./requests_post is the basic operations of `requests`
