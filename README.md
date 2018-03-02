@@ -6,3 +6,5 @@ BeautifulSoup crawler projects
 ./Japan/ is the script  to grasp gps information of Japan with Requests and BeautifulSoup4
 
 ./requests_post is the basic operations of `requests`
+
+./beautifulsoup_practice contains some project of beautifulsoup
