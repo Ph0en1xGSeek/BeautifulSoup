@@ -7,4 +7,6 @@ BeautifulSoup crawler projects
 
 ./requests_post is the basic operations of `requests`
 
-./beautifulsoup_practice contains some project of beautifulsoup
+./national_geography grasps images on the website of national geography
+
+./jiepai grasps the street snaps from Jinri Toutiao and store the information into the **MongoDB**
